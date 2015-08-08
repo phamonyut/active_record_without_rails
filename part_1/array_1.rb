@@ -15,4 +15,3 @@ arr.each_with_index do |a, i|
 end
 p arr
 
-{|i| puts i}.call
